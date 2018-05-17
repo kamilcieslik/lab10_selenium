@@ -1,0 +1,877 @@
+1526507124043	geckodriver	INFO	geckodriver 0.20.1
+1526507124047	geckodriver	INFO	Listening on 127.0.0.1:44531
+1526507125073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AEpfc4eJVOoP"
+1526507126732	Marionette	INFO	Enabled via --marionette
+1526507129644	Marionette	INFO	Listening on port 43937
+1526507129768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526507343871	geckodriver	INFO	geckodriver 0.20.1
+1526507343874	geckodriver	INFO	Listening on 127.0.0.1:45297
+1526507344885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.e4ZsTrsVkGwK"
+1526507345632	Marionette	INFO	Enabled via --marionette
+1526507347998	Marionette	INFO	Listening on port 43261
+1526507348096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526507476814	geckodriver	INFO	geckodriver 0.20.1
+1526507476817	geckodriver	INFO	Listening on 127.0.0.1:56479
+1526507477827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mvb8vqsY1BQ6"
+1526507478534	Marionette	INFO	Enabled via --marionette
+1526507480770	Marionette	INFO	Listening on port 33355
+1526507480844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526507677163	geckodriver	INFO	geckodriver 0.20.1
+1526507677166	geckodriver	INFO	Listening on 127.0.0.1:48591
+1526507678178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PeF4qXN6zjIB"
+1526507679246	Marionette	INFO	Enabled via --marionette
+1526507681362	Marionette	INFO	Listening on port 44663
+1526507681392	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526507788635	geckodriver	INFO	geckodriver 0.20.1
+1526507788639	geckodriver	INFO	Listening on 127.0.0.1:56469
+1526507789642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y5MivFPlaOT2"
+1526507790406	Marionette	INFO	Enabled via --marionette
+[Child 1314, Chrome_ChildThread] WARNING: pipe error (34): Połączenie zerwane przez drugą stronę: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1526507794818	geckodriver	INFO	geckodriver 0.20.1
+1526507794821	geckodriver	INFO	Listening on 127.0.0.1:60733
+1526507795833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EkLmcaesjM0P"
+1526507796712	Marionette	INFO	Enabled via --marionette
+1526507798804	Marionette	INFO	Listening on port 44491
+1526507798846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526507977853	geckodriver	INFO	geckodriver 0.20.1
+1526507977858	geckodriver	INFO	Listening on 127.0.0.1:49165
+1526507978870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5zdTBmuLokHT"
+1526507979598	Marionette	INFO	Enabled via --marionette
+1526507981862	Marionette	INFO	Listening on port 34891
+1526507981884	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+1526508290766	geckodriver	INFO	geckodriver 0.20.1
+1526508290770	geckodriver	INFO	Listening on 127.0.0.1:55649
+1526508291781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.syrBPqcQ7lgh"
+1526508292500	Marionette	INFO	Enabled via --marionette
+1526508294562	Marionette	INFO	Listening on port 43117
+1526508294594	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://allegro.pl
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1526508480599	geckodriver	INFO	geckodriver 0.20.1
+1526508480604	geckodriver	INFO	Listening on 127.0.0.1:33989
+1526508481613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lQilkTNCnyew"
+1526508482488	Marionette	INFO	Enabled via --marionette
+1526508484650	Marionette	INFO	Listening on port 41971
+1526508484734	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3325): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1526509607789	geckodriver	INFO	geckodriver 0.20.1
+1526509607792	geckodriver	INFO	Listening on 127.0.0.1:58853
+1526509608804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kS1dWvzwNYrL"
+1526509609634	Marionette	INFO	Enabled via --marionette
+1526509611606	Marionette	INFO	Listening on port 45025
+1526509611614	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4500): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526509678472	geckodriver	INFO	geckodriver 0.20.1
+1526509678475	geckodriver	INFO	Listening on 127.0.0.1:36275
+1526509679485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Jm5XPz9vb3RY"
+1526509680250	Marionette	INFO	Enabled via --marionette
+1526509682394	Marionette	INFO	Listening on port 46445
+1526509682496	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4749): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript error: https://assets.allegrostatic.com/opbox-web/1.62.2/scripts/vendors.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526509730715	geckodriver	INFO	geckodriver 0.20.1
+1526509730719	geckodriver	INFO	Listening on 127.0.0.1:50295
+1526509731731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.O9OhbVqKKDRR"
+1526509732470	Marionette	INFO	Enabled via --marionette
+1526509734624	Marionette	INFO	Listening on port 41895
+1526509734650	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5012): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526509875165	geckodriver	INFO	geckodriver 0.20.1
+1526509875169	geckodriver	INFO	Listening on 127.0.0.1:37309
+1526509876173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GLVHucAuM8ib"
+1526509876906	Marionette	INFO	Enabled via --marionette
+1526509879258	Marionette	INFO	Listening on port 37381
+1526509879286	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5460): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526510331294	geckodriver	INFO	geckodriver 0.20.1
+1526510331298	geckodriver	INFO	Listening on 127.0.0.1:36365
+1526510332309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Dk6uXtzwwNIY"
+1526510333006	Marionette	INFO	Enabled via --marionette
+1526510334916	Marionette	INFO	Listening on port 34535
+1526510334928	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6106): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript error: https://js-agent.newrelic.com/nr-spa-974.min.js, line 1: TypeError: e is undefined
+1526510746686	geckodriver	INFO	geckodriver 0.20.1
+1526510746690	geckodriver	INFO	Listening on 127.0.0.1:56745
+1526510747694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZX4ndG2pBW30"
+1526510748428	Marionette	INFO	Enabled via --marionette
+1526510750442	Marionette	INFO	Listening on port 33961
+1526510750510	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6591): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526510788397	geckodriver	INFO	geckodriver 0.20.1
+1526510788401	geckodriver	INFO	Listening on 127.0.0.1:50773
+1526510789411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eGdT6TFwH5M0"
+1526510790168	Marionette	INFO	Enabled via --marionette
+1526510792158	Marionette	INFO	Listening on port 36667
+1526510792236	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(/usr/lib/firefox/firefox:6814): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526510834908	geckodriver	INFO	geckodriver 0.20.1
+1526510834911	geckodriver	INFO	Listening on 127.0.0.1:46991
+1526510835915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YXnhRl4mfFJ9"
+JavaScript error: https://allegro.pl/dashboard/myorders/#/, line 12: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526510836880	Marionette	INFO	Enabled via --marionette
+1526510838940	Marionette	INFO	Listening on port 39413
+1526510839028	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7042): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526510930744	geckodriver	INFO	geckodriver 0.20.1
+1526510930747	geckodriver	INFO	Listening on 127.0.0.1:53113
+1526510931756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GJwpCEyk6Msv"
+1526510932536	Marionette	INFO	Enabled via --marionette
+1526510934524	Marionette	INFO	Listening on port 38651
+1526510934566	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7325): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526511410197	geckodriver	INFO	geckodriver 0.20.1
+1526511410201	geckodriver	INFO	Listening on 127.0.0.1:45601
+1526511411212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MyatNwFeHvDW"
+1526511411924	Marionette	INFO	Enabled via --marionette
+1526511414056	Marionette	INFO	Listening on port 35581
+1526511414124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526511465175	geckodriver	INFO	geckodriver 0.20.1
+1526511465178	geckodriver	INFO	Listening on 127.0.0.1:53553
+1526511466189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jVwzbYWDiZDR"
+1526511467032	Marionette	INFO	Enabled via --marionette
+1526511469064	Marionette	INFO	Listening on port 35719
+1526511469100	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(/usr/lib/firefox/firefox:8486): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526511513289	geckodriver	INFO	geckodriver 0.20.1
+1526511513294	geckodriver	INFO	Listening on 127.0.0.1:58399
+1526511514305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4hPnhLgfVOM6"
+[Parent 8417, Gecko_IOThread] WARNING: pipe error (95): Połączenie zerwane przez drugą stronę: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526511515260	Marionette	INFO	Enabled via --marionette
+1526511517436	Marionette	INFO	Listening on port 35361
+1526511517516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526512006783	geckodriver	INFO	geckodriver 0.20.1
+1526512006786	geckodriver	INFO	Listening on 127.0.0.1:37265
+1526512007790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7q4guHA75mCn"
+1526512008548	Marionette	INFO	Enabled via --marionette
+1526512010484	Marionette	INFO	Listening on port 37677
+1526512010504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526512288169	geckodriver	INFO	geckodriver 0.20.1
+1526512288173	geckodriver	INFO	Listening on 127.0.0.1:36255
+1526512289184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZnMt8ensdZMO"
+1526512289936	Marionette	INFO	Enabled via --marionette
+1526512292036	Marionette	INFO	Listening on port 37985
+1526512292100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526512344370	geckodriver	INFO	geckodriver 0.20.1
+1526512344374	geckodriver	INFO	Listening on 127.0.0.1:35577
+1526512345385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ToiP5mm8n7Qj"
+1526512346116	Marionette	INFO	Enabled via --marionette
+1526512348108	Marionette	INFO	Listening on port 42767
+1526512348194	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10099): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526512411798	geckodriver	INFO	geckodriver 0.20.1
+1526512411802	geckodriver	INFO	Listening on 127.0.0.1:57661
+1526512412813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nB88aXAyU4WJ"
+1526512413536	Marionette	INFO	Enabled via --marionette
+1526512415490	Marionette	INFO	Listening on port 40645
+1526512415526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js-agent.newrelic.com/nr-spa-974.min.js, line 1: TypeError: e is undefined
+1526514130334	geckodriver	INFO	geckodriver 0.20.1
+1526514130338	geckodriver	INFO	Listening on 127.0.0.1:58627
+1526514131351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.v7vBuZcHGUnX"
+1526514132480	Marionette	INFO	Enabled via --marionette
+1526514134526	Marionette	INFO	Listening on port 37813
+1526514134568	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11824): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 10314, Gecko_IOThread] WARNING: pipe error (76): Połączenie zerwane przez drugą stronę: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1526514311540	geckodriver	INFO	geckodriver 0.20.1
+1526514311543	geckodriver	INFO	Listening on 127.0.0.1:40619
+1526514312549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bwUxfJEdlOIo"
+1526514313216	Marionette	INFO	Enabled via --marionette
+1526514315166	Marionette	INFO	Listening on port 33265
+1526514315270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526514509853	geckodriver	INFO	geckodriver 0.20.1
+1526514509857	geckodriver	INFO	Listening on 127.0.0.1:57407
+1526514510867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aV6eXEIn7kbP"
+1526514511574	Marionette	INFO	Enabled via --marionette
+1526514513628	Marionette	INFO	Listening on port 41353
+1526514513682	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12541): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript error: https://js-agent.newrelic.com/nr-spa-974.min.js, line 1: TypeError: e is undefined
+1526514666049	geckodriver	INFO	geckodriver 0.20.1
+1526514666053	geckodriver	INFO	Listening on 127.0.0.1:42483
+1526514667065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XNxH2OPZJVQj"
+1526514667828	Marionette	INFO	Enabled via --marionette
+1526514669860	Marionette	INFO	Listening on port 44223
+1526514669882	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12890): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-66582-32, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-66582-32, line 69: unreachable code after return statement
+1526515386850	geckodriver	INFO	geckodriver 0.20.1
+1526515386854	geckodriver	INFO	Listening on 127.0.0.1:49565
+1526515387865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PPcci48yKEAR"
+1526515388580	Marionette	INFO	Enabled via --marionette
+1526515390684	Marionette	INFO	Listening on port 44499
+1526515390780	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13858): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526515431872	geckodriver	INFO	geckodriver 0.20.1
+1526515431876	geckodriver	INFO	Listening on 127.0.0.1:38357
+1526515432887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HB3dU36F7G2A"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526515433922	Marionette	INFO	Enabled via --marionette
+1526515435984	Marionette	INFO	Listening on port 37787
+1526515436002	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14129): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526515536457	geckodriver	INFO	geckodriver 0.20.1
+1526515536460	geckodriver	INFO	Listening on 127.0.0.1:35481
+1526515537472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UQ0ARLv9WGlh"
+1526515538180	Marionette	INFO	Enabled via --marionette
+1526515540166	Marionette	INFO	Listening on port 36461
+1526515540194	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14440): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526515582926	geckodriver	INFO	geckodriver 0.20.1
+1526515582931	geckodriver	INFO	Listening on 127.0.0.1:33803
+1526515583942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uYIDEp1QB3wX"
+1526515584726	Marionette	INFO	Enabled via --marionette
+1526515586868	Marionette	INFO	Listening on port 40487
+1526515586964	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14666): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526515798144	geckodriver	INFO	geckodriver 0.20.1
+1526515798148	geckodriver	INFO	Listening on 127.0.0.1:38749
+1526515799160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sHCYWmunlMHb"
+1526515799910	Marionette	INFO	Enabled via --marionette
+1526515801862	Marionette	INFO	Listening on port 45689
+1526515801878	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15045): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526516018521	geckodriver	INFO	geckodriver 0.20.1
+1526516018525	geckodriver	INFO	Listening on 127.0.0.1:40351
+1526516019536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PG6uKLSasbcs"
+1526516020252	Marionette	INFO	Enabled via --marionette
+1526516022270	Marionette	INFO	Listening on port 46413
+1526516022366	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15402): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526516106660	geckodriver	INFO	geckodriver 0.20.1
+1526516106664	geckodriver	INFO	Listening on 127.0.0.1:47329
+1526516107675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y5LyvPpRBXDL"
+1526516108414	Marionette	INFO	Enabled via --marionette
+1526516110520	Marionette	INFO	Listening on port 39199
+1526516110586	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15704): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript error: https://js-agent.newrelic.com/nr-spa-974.min.js, line 1: TypeError: e is undefined
+1526516880876	geckodriver	INFO	geckodriver 0.20.1
+1526516880882	geckodriver	INFO	Listening on 127.0.0.1:46721
+1526516881893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IgS29PlM3f6T"
+1526516882768	Marionette	INFO	Enabled via --marionette
+1526516884768	Marionette	INFO	Listening on port 33197
+1526516884812	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16481): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526517032266	geckodriver	INFO	geckodriver 0.20.1
+1526517032270	geckodriver	INFO	Listening on 127.0.0.1:56253
+1526517033276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5UKiUsy3dNbJ"
+1526517034034	Marionette	INFO	Enabled via --marionette
+1526517036286	Marionette	INFO	Listening on port 44791
+1526517036386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526517203415	geckodriver	INFO	geckodriver 0.20.1
+1526517203418	geckodriver	INFO	Listening on 127.0.0.1:49251
+1526517204430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.C2Lld7SzdQb3"
+1526517205162	Marionette	INFO	Enabled via --marionette
+1526517207232	Marionette	INFO	Listening on port 42245
+1526517207250	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17296): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526517286361	geckodriver	INFO	geckodriver 0.20.1
+1526517286365	geckodriver	INFO	Listening on 127.0.0.1:43259
+1526517287376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2yEqUa2MRGrL"
+1526517288206	Marionette	INFO	Enabled via --marionette
+1526517290236	Marionette	INFO	Listening on port 32849
+1526517290288	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17570): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526517316633	geckodriver	INFO	geckodriver 0.20.1
+1526517316641	geckodriver	INFO	Listening on 127.0.0.1:55481
+1526517316661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eti3Tru90AJ3"
+1526517318036	Marionette	INFO	Enabled via --marionette
+1526517320264	Marionette	INFO	Listening on port 45753
+1526517320280	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17803): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 16838, Gecko_IOThread] WARNING: pipe error (128): Połączenie zerwane przez drugą stronę: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1526518066301	geckodriver	INFO	geckodriver 0.20.1
+1526518066306	geckodriver	INFO	Listening on 127.0.0.1:38983
+1526518067316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jiDn34AmTitd"
+1526518068038	Marionette	INFO	Enabled via --marionette
+1526518070088	Marionette	INFO	Listening on port 45969
+1526518070126	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18590): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526518180498	geckodriver	INFO	geckodriver 0.20.1
+1526518180501	geckodriver	INFO	Listening on 127.0.0.1:40247
+1526518181535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8pJBMyNWkYSQ"
+1526518182250	Marionette	INFO	Enabled via --marionette
+1526518184352	Marionette	INFO	Listening on port 39757
+1526518184444	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18888): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526518222835	geckodriver	INFO	geckodriver 0.20.1
+1526518222839	geckodriver	INFO	Listening on 127.0.0.1:56835
+1526518223850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Z3Q3uqC966dh"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526518225210	Marionette	INFO	Enabled via --marionette
+1526518227362	Marionette	INFO	Listening on port 43997
+1526518227462	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19132): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526518407391	geckodriver	INFO	geckodriver 0.20.1
+1526518407394	geckodriver	INFO	Listening on 127.0.0.1:47141
+1526518408406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gvp8CMfqss9d"
+1526518409126	Marionette	INFO	Enabled via --marionette
+1526518411140	Marionette	INFO	Listening on port 39637
+1526518411244	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19479): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526518447592	geckodriver	INFO	geckodriver 0.20.1
+1526518447597	geckodriver	INFO	Listening on 127.0.0.1:36231
+1526518448607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aG5N3FyJ2k17"
+1526518449334	Marionette	INFO	Enabled via --marionette
+1526518451614	Marionette	INFO	Listening on port 34565
+1526518451626	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19764): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526518615697	geckodriver	INFO	geckodriver 0.20.1
+1526518615702	geckodriver	INFO	Listening on 127.0.0.1:37459
+1526518616713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aZZrbD5J8s9S"
+1526518617444	Marionette	INFO	Enabled via --marionette
+1526518619570	Marionette	INFO	Listening on port 34017
+1526518619624	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20129): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526518953611	geckodriver	INFO	geckodriver 0.20.1
+1526518953614	geckodriver	INFO	Listening on 127.0.0.1:55603
+1526518954625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3lKeuXqKalfw"
+1526518955390	Marionette	INFO	Enabled via --marionette
+1526518957698	Marionette	INFO	Listening on port 45071
+1526518957738	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20670): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526518980240	geckodriver	INFO	geckodriver 0.20.1
+1526518980244	geckodriver	INFO	Listening on 127.0.0.1:34555
+1526518981255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4YviKkHrJv1B"
+1526518981996	Marionette	INFO	Enabled via --marionette
+1526518984020	Marionette	INFO	Listening on port 35365
+1526518984070	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(/usr/lib/firefox/firefox:20886): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526519102279	geckodriver	INFO	geckodriver 0.20.1
+1526519102283	geckodriver	INFO	Listening on 127.0.0.1:44467
+1526519103294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PfAgJRNcEo6o"
+1526519104058	Marionette	INFO	Enabled via --marionette
+1526519106048	Marionette	INFO	Listening on port 46601
+1526519106104	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21244): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Child 5864, MediaPlayback #3] WARNING: Decoder=7f71e85f4d40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-MBnaRH/firefox-59.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3453
+[Child 5864, MediaPlayback #2] WARNING: Decoder=7f71e85f4d40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-MBnaRH/firefox-59.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3453
+[Child 5864, MediaPlayback #1] WARNING: Decoder=7f71e85f4d40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-MBnaRH/firefox-59.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3453
+[Parent 3218, Gecko_IOThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1526519417729	geckodriver	INFO	geckodriver 0.20.1
+1526519417733	geckodriver	INFO	Listening on 127.0.0.1:48425
+1526519417744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GPhRlPxLooOw"
+1526519419098	Marionette	INFO	Enabled via --marionette
+1526519421824	Marionette	INFO	Listening on port 33727
+1526519422036	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21688): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode919
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode920
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode949
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode950
+1526519625499	geckodriver	INFO	geckodriver 0.20.1
+1526519625513	geckodriver	INFO	Listening on 127.0.0.1:33117
+1526519625584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qYLaqi5el09X"
+1526519627146	Marionette	INFO	Enabled via --marionette
+1526519629658	Marionette	INFO	Listening on port 36237
+1526519629706	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22133): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526519731335	geckodriver	INFO	geckodriver 0.20.1
+1526519731350	geckodriver	INFO	Listening on 127.0.0.1:40167
+1526519731394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HjDq4Rzbc5aG"
+1526519732602	Marionette	INFO	Enabled via --marionette
+1526519734994	Marionette	INFO	Listening on port 37147
+1526519735008	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22412): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526519768961	geckodriver	INFO	geckodriver 0.20.1
+1526519768975	geckodriver	INFO	Listening on 127.0.0.1:33975
+1526519769047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DvUfBfRneBWj"
+1526519770326	Marionette	INFO	Enabled via --marionette
+1526519772866	Marionette	INFO	Listening on port 40409
+1526519773048	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22647): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526519962448	geckodriver	INFO	geckodriver 0.20.1
+1526519962462	geckodriver	INFO	Listening on 127.0.0.1:59147
+1526519962540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tdyyijI6qzoF"
+1526519964370	Marionette	INFO	Enabled via --marionette
+1526519967042	Marionette	INFO	Listening on port 43255
+1526519967058	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23046): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526520021955	geckodriver	INFO	geckodriver 0.20.1
+1526520021962	geckodriver	INFO	Listening on 127.0.0.1:39775
+1526520022033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5DlaxZsQglFi"
+1526520023118	Marionette	INFO	Enabled via --marionette
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526520025730	Marionette	INFO	Listening on port 41283
+1526520025750	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23284): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526521679863	geckodriver	INFO	geckodriver 0.20.1
+1526521679908	geckodriver	INFO	Listening on 127.0.0.1:56377
+1526521680930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TdggNdn8XFdS"
+1526521682776	Marionette	INFO	Enabled via --marionette
+1526521685360	Marionette	INFO	Listening on port 33519
+1526521685446	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25686): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526521750847	geckodriver	INFO	geckodriver 0.20.1
+1526521750853	geckodriver	INFO	Listening on 127.0.0.1:60515
+1526521750924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M3PQbxb7yEGe"
+1526521752282	Marionette	INFO	Enabled via --marionette
+1526521754724	Marionette	INFO	Listening on port 37951
+1526521754740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526521868897	geckodriver	INFO	geckodriver 0.20.1
+1526521868912	geckodriver	INFO	Listening on 127.0.0.1:35747
+1526521868968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PLPo8U9nkT4N"
+1526521870274	Marionette	INFO	Enabled via --marionette
+1526521872468	Marionette	INFO	Listening on port 39285
+1526521872484	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526521918755	geckodriver	INFO	geckodriver 0.20.1
+1526521918769	geckodriver	INFO	Listening on 127.0.0.1:51713
+1526521918817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WgI7MxLf8Bpq"
+1526521920072	Marionette	INFO	Enabled via --marionette
+1526521922450	Marionette	INFO	Listening on port 43461
+1526521922568	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26500): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526522026461	geckodriver	INFO	geckodriver 0.20.1
+1526522026476	geckodriver	INFO	Listening on 127.0.0.1:46201
+1526522026533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y43z9PTAh9ym"
+1526522027960	Marionette	INFO	Enabled via --marionette
+1526522030468	Marionette	INFO	Listening on port 34605
+1526522030546	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26882): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526522210305	geckodriver	INFO	geckodriver 0.20.1
+1526522210311	geckodriver	INFO	Listening on 127.0.0.1:56953
+1526522210343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7GKrqdLHJ6mc"
+1526522212056	Marionette	INFO	Enabled via --marionette
+1526522214506	Marionette	INFO	Listening on port 46203
+1526522214558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526522311026	geckodriver	INFO	geckodriver 0.20.1
+1526522311041	geckodriver	INFO	Listening on 127.0.0.1:52095
+1526522311201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZsFwB5PPXqte"
+1526522317376	geckodriver	INFO	geckodriver 0.20.1
+1526522317380	geckodriver	INFO	Listening on 127.0.0.1:47365
+1526522318396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jl8U5bsIBIg0"
+1526522326824	Marionette	INFO	Enabled via --marionette
+1526522335520	Marionette	INFO	Listening on port 39917
+1526522335822	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27860): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526523253670	geckodriver	INFO	geckodriver 0.20.1
+1526523253750	geckodriver	INFO	Listening on 127.0.0.1:50369
+1526523254599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0PSOOexyy5yX"
+1526523260304	Marionette	INFO	Enabled via --marionette
+1526523266152	Marionette	INFO	Listening on port 35835
+1526523266360	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4776): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526523334709	geckodriver	INFO	geckodriver 0.20.1
+1526523334712	geckodriver	INFO	Listening on 127.0.0.1:40847
+1526523335715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aqFHiqIKIqct"
+1526523336436	Marionette	INFO	Enabled via --marionette
+1526523338896	Marionette	INFO	Listening on port 35647
+1526523338926	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5028): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526523463809	geckodriver	INFO	geckodriver 0.20.1
+1526523463813	geckodriver	INFO	Listening on 127.0.0.1:38773
+1526523464825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vm8Y5qjNNd0y"
+1526523465574	Marionette	INFO	Enabled via --marionette
+1526523468098	Marionette	INFO	Listening on port 43233
+1526523468138	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5413): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526523514006	geckodriver	INFO	geckodriver 0.20.1
+1526523514010	geckodriver	INFO	Listening on 127.0.0.1:42825
+1526523515020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OlkIA9oBjyz9"
+1526523515796	Marionette	INFO	Enabled via --marionette
+1526523518196	Marionette	INFO	Listening on port 39925
+1526523518238	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(/usr/lib/firefox/firefox:5673): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526523636311	geckodriver	INFO	geckodriver 0.20.1
+1526523636315	geckodriver	INFO	Listening on 127.0.0.1:52027
+1526523637318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rk3zojDWlBzI"
+1526523638138	Marionette	INFO	Enabled via --marionette
+1526523640234	Marionette	INFO	Listening on port 42529
+1526523640332	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5938): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526523670021	geckodriver	INFO	geckodriver 0.20.1
+1526523670025	geckodriver	INFO	Listening on 127.0.0.1:55479
+1526523671036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QRTRQ1FlFPwP"
+1526523672014	Marionette	INFO	Enabled via --marionette
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526523674176	Marionette	INFO	Listening on port 37077
+1526523674250	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6166): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526523777350	geckodriver	INFO	geckodriver 0.20.1
+1526523777354	geckodriver	INFO	Listening on 127.0.0.1:39757
+1526523778364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FsgJlaabmjyR"
+1526523779114	Marionette	INFO	Enabled via --marionette
+1526523781202	Marionette	INFO	Listening on port 44709
+1526523781300	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6432): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526523819593	geckodriver	INFO	geckodriver 0.20.1
+1526523819597	geckodriver	INFO	Listening on 127.0.0.1:32859
+1526523820608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HO79nyJlNRVi"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526523821568	Marionette	INFO	Enabled via --marionette
+1526523823650	Marionette	INFO	Listening on port 34629
+1526523823732	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6704): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526523864120	geckodriver	INFO	geckodriver 0.20.1
+1526523864124	geckodriver	INFO	Listening on 127.0.0.1:59181
+1526523865135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8tiytOTxVzsm"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526523866096	Marionette	INFO	Enabled via --marionette
+1526523868232	Marionette	INFO	Listening on port 37411
+1526523868248	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6927): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526524038792	geckodriver	INFO	geckodriver 0.20.1
+1526524038796	geckodriver	INFO	Listening on 127.0.0.1:51033
+1526524039808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rvRNBOqKn0yG"
+1526524040640	Marionette	INFO	Enabled via --marionette
+1526524042770	Marionette	INFO	Listening on port 45509
+1526524042828	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7274): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526524154200	geckodriver	INFO	geckodriver 0.20.1
+1526524154205	geckodriver	INFO	Listening on 127.0.0.1:50743
+1526524155216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gUMs9f2XBfKh"
+1526524156144	Marionette	INFO	Enabled via --marionette
+1526524158112	Marionette	INFO	Listening on port 39591
+1526524158128	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7572): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526524236941	geckodriver	INFO	geckodriver 0.20.1
+1526524236945	geckodriver	INFO	Listening on 127.0.0.1:40345
+1526524237955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RlgFo03lYxHV"
+1526524239094	Marionette	INFO	Enabled via --marionette
+1526524241218	Marionette	INFO	Listening on port 44381
+1526524241272	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7878): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript error: https://js-agent.newrelic.com/nr-spa-974.min.js, line 1: TypeError: e is undefined
+1526524406137	geckodriver	INFO	geckodriver 0.20.1
+1526524406142	geckodriver	INFO	Listening on 127.0.0.1:53067
+1526524407152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DLKuWSbgC0Xw"
+1526524407952	Marionette	INFO	Enabled via --marionette
+1526524410182	Marionette	INFO	Listening on port 38905
+1526524410264	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8206): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526524482255	geckodriver	INFO	geckodriver 0.20.1
+1526524482259	geckodriver	INFO	Listening on 127.0.0.1:45701
+1526524483271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tQGmzukvjDBq"
+1526524484002	Marionette	INFO	Enabled via --marionette
+1526524486118	Marionette	INFO	Listening on port 37235
+1526524486190	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8475): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526524526966	geckodriver	INFO	geckodriver 0.20.1
+1526524526970	geckodriver	INFO	Listening on 127.0.0.1:45255
+1526524527981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lAzckBIHQc1r"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526524528876	Marionette	INFO	Enabled via --marionette
+1526524530946	Marionette	INFO	Listening on port 32803
+1526524531000	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8698): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526525022779	geckodriver	INFO	geckodriver 0.20.1
+1526525022784	geckodriver	INFO	Listening on 127.0.0.1:58697
+1526525023794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EYUX2zSDRxeA"
+1526525024578	Marionette	INFO	Enabled via --marionette
+1526525026578	Marionette	INFO	Listening on port 37587
+1526525026604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526525079555	geckodriver	INFO	geckodriver 0.20.1
+1526525079559	geckodriver	INFO	Listening on 127.0.0.1:58567
+1526525080569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Gi5xtYxITya6"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526525081730	Marionette	INFO	Enabled via --marionette
+1526525083760	Marionette	INFO	Listening on port 39145
+1526525083790	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9617): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript error: https://js-agent.newrelic.com/nr-spa-974.min.js, line 1: TypeError: e is undefined
+1526525158543	geckodriver	INFO	geckodriver 0.20.1
+1526525158547	geckodriver	INFO	Listening on 127.0.0.1:46909
+1526525159558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QIVsKR4TMIPX"
+1526525160274	Marionette	INFO	Enabled via --marionette
+1526525162766	Marionette	INFO	Listening on port 43631
+1526525162768	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9860): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript error: https://js-agent.newrelic.com/nr-spa-974.min.js, line 1: TypeError: e is undefined
+1526525248821	geckodriver	INFO	geckodriver 0.20.1
+1526525248824	geckodriver	INFO	Listening on 127.0.0.1:41075
+1526525249828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.i6itJrYdJoGq"
+1526525250546	Marionette	INFO	Enabled via --marionette
+1526525253044	Marionette	INFO	Listening on port 34117
+1526525253138	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10120): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526525315164	geckodriver	INFO	geckodriver 0.20.1
+1526525315168	geckodriver	INFO	Listening on 127.0.0.1:44451
+1526525316171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Lt5Ct4EOraMy"
+1526525316882	Marionette	INFO	Enabled via --marionette
+1526525319236	Marionette	INFO	Listening on port 36667
+1526525319284	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10403): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526527313922	geckodriver	INFO	geckodriver 0.20.1
+1526527313926	geckodriver	INFO	Listening on 127.0.0.1:36873
+1526527314938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GgEc0rlW9Ule"
+1526527315634	Marionette	INFO	Enabled via --marionette
+1526527317928	Marionette	INFO	Listening on port 37547
+1526527317960	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11821): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526527343096	geckodriver	INFO	geckodriver 0.20.1
+1526527343100	geckodriver	INFO	Listening on 127.0.0.1:36973
+1526527344111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bZS2MOfWrjA4"
+1526527344832	Marionette	INFO	Enabled via --marionette
+1526527346862	Marionette	INFO	Listening on port 36561
+1526527346922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526527549204	geckodriver	INFO	geckodriver 0.20.1
+1526527549207	geckodriver	INFO	Listening on 127.0.0.1:33343
+1526527550217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ip5UOdMCFF60"
+1526527551002	Marionette	INFO	Enabled via --marionette
+1526527553158	Marionette	INFO	Listening on port 44975
+1526527553234	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12452): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526527797888	geckodriver	INFO	geckodriver 0.20.1
+1526527797892	geckodriver	INFO	Listening on 127.0.0.1:57027
+1526527798902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.k1KmQEkwzqkP"
+1526527799672	Marionette	INFO	Enabled via --marionette
+1526527801786	Marionette	INFO	Listening on port 33617
+1526527801818	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12966): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526527834049	geckodriver	INFO	geckodriver 0.20.1
+1526527834053	geckodriver	INFO	Listening on 127.0.0.1:36151
+1526527835063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aa4loM75MRJm"
+1526527835834	Marionette	INFO	Enabled via --marionette
+1526527837864	Marionette	INFO	Listening on port 46545
+1526527837874	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13185): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript error: https://js-agent.newrelic.com/nr-spa-974.min.js, line 1: TypeError: e is undefined
+1526528042630	geckodriver	INFO	geckodriver 0.20.1
+1526528042634	geckodriver	INFO	Listening on 127.0.0.1:36225
+1526528043642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mLnPpra5gqRr"
+1526528044334	Marionette	INFO	Enabled via --marionette
+1526528046438	Marionette	INFO	Listening on port 35967
+1526528046462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js-agent.newrelic.com/nr-spa-974.min.js, line 1: TypeError: e is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526528088235	geckodriver	INFO	geckodriver 0.20.1
+1526528088238	geckodriver	INFO	Listening on 127.0.0.1:56793
+1526528089249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8ZhjmvzALMgv"
+1526528089990	Marionette	INFO	Enabled via --marionette
+1526528092190	Marionette	INFO	Listening on port 34361
+1526528092278	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13884): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526529386559	geckodriver	INFO	geckodriver 0.20.1
+1526529386563	geckodriver	INFO	Listening on 127.0.0.1:37407
+1526529387571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EwvlpjKWYXea"
+1526529388628	Marionette	INFO	Enabled via --marionette
+1526529390982	Marionette	INFO	Listening on port 35551
+1526529391090	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15836): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526532773673	geckodriver	INFO	geckodriver 0.20.1
+1526532773677	geckodriver	INFO	Listening on 127.0.0.1:52979
+1526532774680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yCK3mIFaeTVO"
+1526532775406	Marionette	INFO	Enabled via --marionette
+1526532777452	Marionette	INFO	Listening on port 34319
+1526532777496	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20473): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526532900409	geckodriver	INFO	geckodriver 0.20.1
+1526532900412	geckodriver	INFO	Listening on 127.0.0.1:57125
+1526532901421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nIHlQ3sZKyLc"
+1526532902078	Marionette	INFO	Enabled via --marionette
+1526532904146	Marionette	INFO	Listening on port 32897
+1526532904230	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20779): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript error: https://js-agent.newrelic.com/nr-spa-974.min.js, line 1: TypeError: e is undefined
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20779, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-MBnaRH/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526542456746	geckodriver	INFO	geckodriver 0.20.1
+1526542456834	geckodriver	INFO	Listening on 127.0.0.1:53347
+1526542457823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.inKSKQeumqtm"
+1526542469675	Marionette	INFO	Listening on port 33511
+1526542469831	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4937): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error: Przerwany potok: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4937, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526543298187	geckodriver	INFO	geckodriver 0.20.1
+1526543298191	geckodriver	INFO	Listening on 127.0.0.1:56647
+1526543299200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1Fpl1phAfKfD"
+1526543302036	Marionette	INFO	Listening on port 33099
+1526543302118	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5906): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1526543425778	geckodriver	INFO	geckodriver 0.20.1
+1526543425781	geckodriver	INFO	Listening on 127.0.0.1:35335
+1526543426792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BSRwzD2jh4yE"
+1526543429713	Marionette	INFO	Listening on port 39097
+1526543429804	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6211): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+JavaScript error: https://js-agent.newrelic.com/nr-spa-974.min.js, line 1: TypeError: e is undefined
+1526544671852	geckodriver	INFO	geckodriver 0.20.1
+1526544671855	geckodriver	INFO	Listening on 127.0.0.1:52687
+1526544672864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DwoagZV6XTq2"
+1526544675692	Marionette	INFO	Listening on port 43639
+1526544675775	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7778): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 7778, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-ThbE1R/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
